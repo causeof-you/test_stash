@@ -6,4 +6,7 @@
 there is a tree front of my window!
 99999999
 88888888
+<<<<<<< HEAD
 hello,moon!
+=======
+>>>>>>> fenzhi1
