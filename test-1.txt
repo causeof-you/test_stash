@@ -7,3 +7,5 @@ there is a tree front of my window!
 99999999
 88888888
 hello,world!
+hello,moon!
+today is a rainny day!
